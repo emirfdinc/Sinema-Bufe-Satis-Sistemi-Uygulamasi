@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sinema Büfe Satıs Sistemi Uygulaması", "Sinema Büfe Satıs Sistemi Uygulaması\Sinema Büfe Satıs Sistemi Uygulaması.csproj", "{A45A1F1D-0F8F-44B3-8255-ECC61725F88D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A45A1F1D-0F8F-44B3-8255-ECC61725F88D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A45A1F1D-0F8F-44B3-8255-ECC61725F88D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A45A1F1D-0F8F-44B3-8255-ECC61725F88D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A45A1F1D-0F8F-44B3-8255-ECC61725F88D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C14BE7D4-CB81-425B-801A-FCE3A1BD5972}
+	EndGlobalSection
+EndGlobal
